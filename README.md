@@ -1,7 +1,7 @@
 # Proyecto_Analisis_Financiero_Salud
 ## Análisis financiero de institución médica
 
-Este archivo contiene dashboards interactivos construidos a partir de múltiples tablas relacionadas, diseñados para analizar en profundidad el comportamiento financiero y clínico de una institución médica [link]().
+Este archivo contiene dashboards interactivos construidos a partir de múltiples tablas relacionadas, diseñados para analizar en profundidad el comportamiento financiero y clínico de una institución médica.
 
 Mediante el uso de Power BI, se desarrollaron visualizaciones dinámicas y se aplicaron procesos de transformación y análisis de datos (ETL), permitiendo detectar patrones relevantes, generar conocimiento accionable y orientar la toma de decisiones tanto a nivel directivo como médico-asistencial. Gracias al mismo se pudieron detectar 3 insights relevantes los cuales fueron:
 
